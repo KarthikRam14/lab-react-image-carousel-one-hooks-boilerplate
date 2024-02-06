@@ -1,1 +1,17 @@
 /* write down the css for Carousel in this file */
+*{
+    text-align: center;
+}
+
+.Main{
+    height: 38vw;
+    width: 38vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text{
+    background-color: rgb(255, 255, 255, 0.8) ;
+    width: max-content;
+}
